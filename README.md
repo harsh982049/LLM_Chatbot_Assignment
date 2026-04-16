@@ -8,12 +8,9 @@ This is a student lead project by Harsh and Aamod to create a finance chatbot th
 4. Check citations with ease  
 
 # HOW-TO-USE   
-   1. Open link at vercel:  
- ![Alt text](Screenshot.png)    
+   1. Open link at vercel:     
    2. Type a query :  
-    ![Alt text](Generated_answer1.png)  
-   3. See citations :  
-      ![Alt text](Generated_answer2.png)   
+   3. See citations :   
 # License : MIT license  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:  
 
