@@ -1,5 +1,5 @@
 # ABOUT THIS PROJECT   
-JIOPAY is a leading payment site associated with reliance industries . This is a student lead project by Harsh and Aamod tocreate a jio pay chatbot that T answers common of users .
+This is a student lead project by Harsh and Aamod to create a finance chatbot that answers common questions of users .
 
 # BENEFITS 
 1. Fully Secure : The responses are only temporarily stored per session  
